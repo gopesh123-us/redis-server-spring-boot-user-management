@@ -58,6 +58,7 @@
 	</dependencies>
 
 	<build>
+	<finalName>redis-springboot-user-management</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
